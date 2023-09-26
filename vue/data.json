@@ -1,0 +1,9 @@
+{
+    "success":true,
+    "code":200,
+    "data":[
+        {"name":"lucy","age":20},
+        {"name":"tom","age":19},
+        {"name":"bob","age":21}
+    ]
+}
